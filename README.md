@@ -1,5 +1,3 @@
-Certainly! Here's the GitHub README.md file content translated into English:
-
 # Multi-Class Intersection over Union (IoU) Calculation
 
 This repository contains Python code for calculating Intersection over Union (IoU) for multi-class segmentation problems. Both NumPy and PyTorch versions are provided.
