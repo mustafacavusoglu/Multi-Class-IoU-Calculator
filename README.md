@@ -65,9 +65,3 @@ iou_torch = multi_class_iou_torch(torch.from_numpy(y_true), torch.from_numpy(y_p
 
 iou_torch_class_0 = multi_class_iou_torch(torch.from_numpy(y_true), torch.from_numpy(y_pred), cls_ids=[0])
 ```
-
-## Examples
-
-This repository includes examples of using both NumPy and PyTorch to calculate IoU for multi-class segmentation problems. You can run these examples to see how the functions can be used in more detail.
-
----
